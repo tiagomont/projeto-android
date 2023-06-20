@@ -57,7 +57,7 @@ header > p {
 	font-size: 1.2em;
 	color: white;
 	max-width: 600px;
-	margin: auto;
+	margin: 0px auto;
 	padding: 0px 10px;
 	padding-bottom: 40px;
 	text-shadow: 2px 2px #0000006b;
