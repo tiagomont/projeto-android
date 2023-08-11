@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Android" src="imagens/projeto-android-page" width="100%">
+  <img alt="Projeto Android" src="imagens/projeto-android-page.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
